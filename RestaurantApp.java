@@ -36,9 +36,7 @@ public class RestaurantApp {
         menu.add(new MenuItem("Nasi Rames", 15000, "Makanan"));
         menu.add(new MenuItem("Nasi Uduk", 20000, "Makanan"));
         menu.add(new MenuItem("Es Teh", 5000, "Minuman"));
-
         menu.add(new MenuItem("Es Coklat", 15000, "Minuman"));
-
         menu.add(new MenuItem("Air Putih", 2000, "Minuman"));
         
         // Tambahkan lebih banyak item menu di sini
